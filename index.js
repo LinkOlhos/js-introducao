@@ -1,4 +1,4 @@
-
+/* 
 let nome = "Bruna"; //String
 console.log(nome);
 nome = "Danielly";
@@ -66,12 +66,12 @@ console.log("'2' !== '2': ", "2" !== "2"); // estritamente diferente
 console.log(!true); // false
 console.log(!false); // true
 
-// || ou logico
+/* // || ou logico
 console.log("2 > 3 || 3 > 2: ",2 > 3 || 3 > 2);
 console.log("2 > 3 || 1 > 2: ",2 > 3 || 1 > 2);
 // && ou logico
 console.log("2 > 3 && 3 > 2: ",2 > 3 && 3 > 2);
-console.log("4 > 3 && 3 > 2: ",4 > 3 && 3 > 2);
+console.log("4 > 3 && 3 > 2: ",4 > 3 && 3 > 2); */
 
 
 
@@ -80,3 +80,25 @@ console.log("4 > 3 && 3 > 2: ",4 > 3 && 3 > 2);
 // let root = document.querySelector("#root");
 // root.innerHTML = `<h1 onclick="${alert("Clicou")}">Olá mundo</h1>`;
 // root.innerHTML += "<h2>oi Uriel</h2>";
+
+/* let semaforo = "verde"
+switch (semaforo) {
+    case "verde":
+        console.log("Siga em Frente");
+    break;
+    case "amarelo":
+        console.log("Diminua a Velocidade");
+    break;
+    case "Vermelho":
+        console.log("Pare");
+    break;
+    default:
+        console.log("Semaforo com Defeito");
+        break;
+} */
+
+/* let moeda = "cara";
+moeda == "cara" ? console.log("Cara") : console.log("Coroa"); */
+
+/* (2 % 2 == 0) ? console.log("Par"): console.log("Impar"); */
+
